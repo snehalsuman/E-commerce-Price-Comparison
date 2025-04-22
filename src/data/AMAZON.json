@@ -1,0 +1,92 @@
+[
+  {
+    "id": "A1",
+    "name": "Samsung Galaxy S21",
+    "price": 699.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/81vqHyDCSCL._SL1500_.jpg",
+    "description": "The Samsung Galaxy S21 features a 6.2-inch Dynamic AMOLED display, 5G connectivity, and a powerful triple camera system. With 8GB RAM and 128GB storage, it's perfect for photography and gaming."
+  },
+  {
+    "id": "A2",
+    "name": "Apple MacBook Pro",
+    "price": 1299.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://m.media-amazon.com/images/I/71vFKBpKakL.jpg",
+    "description": "The Apple MacBook Pro features the M1 chip, 13-inch Retina display, and up to 20 hours of battery life. Perfect for professionals and creatives with its powerful performance and stunning display."
+  },
+  {
+    "id": "A3",
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg",
+    "description": "Industry-leading noise cancellation, exceptional sound quality, and up to 30 hours of battery life. These wireless headphones offer premium comfort and smart features like adaptive sound control."
+  },
+  {
+    "id": "A4",
+    "name": "Nintendo Switch",
+    "price": 299.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/71Q54HnKxwS._SL1500_.jpg",
+    "description": "The Nintendo Switch console transforms from home console to handheld system. Play your favorite games anywhere with the 6.2-inch touchscreen and detachable Joy-Con controllers."
+  },
+  {
+    "id": "A5",
+    "name": "Dyson V11 Vacuum",
+    "price": 499.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/418vSp+SqzL._SL1000_.jpg",
+    "description": "Powerful cordless vacuum with intelligent suction and up to 60 minutes of fade-free power. Features LCD screen, three power modes, and whole-machine filtration for cleaner air."
+  },
+  {
+    "id": "A6",
+    "name": "Instant Pot Duo",
+    "price": 89.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/710KoJMG2lL._SL1500_.jpg",
+    "description": "7-in-1 multi-functional pressure cooker that combines 7 kitchen appliances in one. Features 13 customizable smart programs, 1000W of cooking power, and 10 safety mechanisms."
+  },
+  {
+    "id": "A7",
+    "name": "Kindle Paperwhite",
+    "price": 129.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/513HbAnM8-L._SL1000_.jpg",
+    "description": "Waterproof Kindle with a 6-inch glare-free display, adjustable warm light, and weeks of battery life. Store thousands of books and read comfortably day or night."
+  },
+  {
+    "id": "A8",
+    "name": "Bose SoundLink Speaker",
+    "price": 199.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/61EOvwJYyHL._SL1500_.jpg",
+    "description": "Portable Bluetooth speaker with powerful sound and deep bass. Features 12 hours of battery life, built-in microphone for calls, and water-resistant design."
+  },
+  {
+    "id": "A9",
+    "name": "Fitbit Charge 4",
+    "price": 149.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://a.media-amazon.com/images/I/51LcDkgKEtS._SL1200_.jpg",
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and sleep tracking. Features 7-day battery life, contactless payments, and 20+ exercise modes."
+  },
+  {
+    "id": "A10",
+    "name": "GoPro Hero 9",
+    "price": 399.99,
+    "availability": true,
+    "platform": "Amazon",
+    "image": "https://avstore.in/cdn/shop/products/AVStore-GoPro-HERO9-Black-Front-3.jpg?v=1632397592&width=1200",
+    "description": "5K video camera with 20MP photos, HyperSmooth 3.0 stabilization, and waterproof design. Features front display, removable battery, and 30% more battery life."
+  }
+] 

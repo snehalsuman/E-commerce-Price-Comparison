@@ -1,0 +1,81 @@
+[
+  {
+    "id": "E1",
+    "name": "Samsung Galaxy S21",
+    "price": 699.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/81vqHyDCSCL._SL1500_.jpg"
+  },
+  {
+    "id": "E2",
+    "name": "Apple MacBook Pro",
+    "price": 1299.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://m.media-amazon.com/images/I/71vFKBpKakL.jpg"
+  },
+  {
+    "id": "E3",
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg"
+  },
+  {
+    "id": "E4",
+    "name": "Nintendo Switch",
+    "price": 299.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/71Q54HnKxwS._SL1500_.jpg"
+  },
+  {
+    "id": "E5",
+    "name": "Dyson V11 Vacuum",
+    "price": 499.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/418vSp+SqzL._SL1000_.jpg"
+  },
+  {
+    "id": "E6",
+    "name": "Instant Pot Duo",
+    "price": 89.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/710KoJMG2lL._SL1500_.jpg"
+  },
+  {
+    "id": "E7",
+    "name": "Kindle Paperwhite",
+    "price": 129.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/513HbAnM8-L._SL1000_.jpg"
+  },
+  {
+    "id": "E8",
+    "name": "Bose SoundLink Speaker",
+    "price": 199.99,
+    "availability": true,
+    "platform": "eBay"
+  },
+  {
+    "id": "E9",
+    "name": "Fitbit Charge 4",
+    "price": 149.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://a.media-amazon.com/images/I/51LcDkgKEtS._SL1200_.jpg"
+  },
+  {
+    "id": "E10",
+    "name": "GoPro Hero 9",
+    "price": 399.99,
+    "availability": true,
+    "platform": "eBay",
+    "image": "https://avstore.in/cdn/shop/products/AVStore-GoPro-HERO9-Black-Front-3.jpg?v=1632397592&width=1200"
+  }
+] 

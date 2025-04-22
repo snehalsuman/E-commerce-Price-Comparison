@@ -1,0 +1,82 @@
+[
+  {
+    "id": "F1",
+    "name": "Samsung Galaxy S21",
+    "price": 689.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/81vqHyDCSCL._SL1500_.jpg"
+  },
+  {
+    "id": "F2",
+    "name": "Apple MacBook Pro",
+    "price": 1299.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://m.media-amazon.com/images/I/71vFKBpKakL.jpg"
+  },
+  {
+    "id": "F3",
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 339.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/41JACWT-wWL._SL1200_.jpg"
+  },
+  {
+    "id": "F4",
+    "name": "Nintendo Switch",
+    "price": 289.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/71Q54HnKxwS._SL1500_.jpg"
+  },
+  {
+    "id": "F5",
+    "name": "Dyson V11 Vacuum",
+    "price": 489.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/418vSp+SqzL._SL1000_.jpg"
+  },
+  {
+    "id": "F6",
+    "name": "Instant Pot Duo",
+    "price": 79.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/710KoJMG2lL._SL1500_.jpg"
+  },
+  {
+    "id": "F7",
+    "name": "Kindle Paperwhite",
+    "price": 119.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/513HbAnM8-L._SL1000_.jpg"
+  },
+  {
+    "id": "F8",
+    "name": "Bose SoundLink Speaker",
+    "price": 189.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/61EOvwJYyHL._SL1500_.jpg"
+  },
+  {
+    "id": "F9",
+    "name": "Fitbit Charge 4",
+    "price": 139.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://a.media-amazon.com/images/I/51LcDkgKEtS._SL1200_.jpg"
+  },
+  {
+    "id": "F10",
+    "name": "GoPro Hero 9",
+    "price": 389.99,
+    "availability": true,
+    "platform": "Flipkart",
+    "image": "https://avstore.in/cdn/shop/products/AVStore-GoPro-HERO9-Black-Front-3.jpg?v=1632397592&width=1200"
+  }
+] 

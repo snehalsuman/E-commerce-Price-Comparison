@@ -1,0 +1,77 @@
+[
+  {
+    "id": "S1",
+    "name": "Samsung Galaxy S21",
+    "price": 689.99,
+    "availability": true,
+    "platform": "ShopClues",
+    "image": "https://a.media-amazon.com/images/I/81vqHyDCSCL._SL1500_.jpg"
+  },
+  {
+    "id": "S2",
+    "name": "Apple MacBook Pro",
+    "price": 1289.99,
+    "availability": true,
+    "platform": "ShopClues"
+  },
+  {
+    "id": "S3",
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 349.99,
+    "availability": true,
+    "platform": "ShopClues"
+  },
+  {
+    "id": "S4",
+    "name": "Nintendo Switch",
+    "price": 299.99,
+    "availability": true,
+    "platform": "ShopClues"
+  },
+  {
+    "id": "S5",
+    "name": "Dyson V11 Vacuum",
+    "price": 499.99,
+    "availability": true,
+    "platform": "ShopClues",
+    "image": "https://a.media-amazon.com/images/I/418vSp+SqzL._SL1000_.jpg"
+  },
+  {
+    "id": "S6",
+    "name": "Instant Pot Duo",
+    "price": 89.99,
+    "availability": true,
+    "platform": "ShopClues",
+    "image": "https://a.media-amazon.com/images/I/710KoJMG2lL._SL1500_.jpg"
+  },
+  {
+    "id": "S7",
+    "name": "Kindle Paperwhite",
+    "price": 129.99,
+    "availability": true,
+    "platform": "ShopClues",
+    "image": "https://a.media-amazon.com/images/I/513HbAnM8-L._SL1000_.jpg"
+  },
+  {
+    "id": "S8",
+    "name": "Bose SoundLink Speaker",
+    "price": 199.99,
+    "availability": true,
+    "platform": "ShopClues"
+  },
+  {
+    "id": "S9",
+    "name": "Fitbit Charge 4",
+    "price": 149.99,
+    "availability": true,
+    "platform": "ShopClues",
+    "image": "https://a.media-amazon.com/images/I/51LcDkgKEtS._SL1200_.jpg"
+  },
+  {
+    "id": "S10",
+    "name": "GoPro Hero 9",
+    "price": 399.99,
+    "availability": true,
+    "platform": "ShopClues"
+  }
+] 
