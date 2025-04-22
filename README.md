@@ -2,7 +2,9 @@
 
 A modern web application that helps users compare product prices across different e-commerce platforms including Amazon, Flipkart, eBay, and ShopClues. Built with React and Tailwind CSS.
 
-![E-commerce Price Comparison](screenshot.png)
+<img width="1248" alt="Screenshot 2025-04-22 at 10 54 13 AM" src="https://github.com/user-attachments/assets/08a46ae5-87e8-4a0e-8cb0-305723eb212d" />
+
+
 
 ## Features
 
